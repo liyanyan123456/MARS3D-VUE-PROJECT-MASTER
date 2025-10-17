@@ -17,6 +17,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
     "@icon-park/svg": "^1.4.2",
     "@turf/turf": "^7.2.0",
     "ant-design-vue": "^4.2.6",
@@ -25,6 +26,7 @@
     "dayjs": "^1.11.13",
     "echarts": "^5.6.0",
     "echarts-gl": "^2.0.9",
+    "element-plus": "^2.11.4",
     "font-awesome": "^4.7.0",
     "kml-geojson": "^2.0.1",
     "localforage": "^1.10.0",
