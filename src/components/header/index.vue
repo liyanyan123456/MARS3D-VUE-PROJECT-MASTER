@@ -10,7 +10,7 @@
   <div class="header">
     <div class="title">
       <div class="logo"></div>
-      <div class="text">Mars3D-Vue项目示例</div>
+      <div class="text">文化遗产数据展示平台</div>
     </div>
     <div class="menu">
       <el-menu class="el-menu-demo" mode="horizontal" :ellipsis="false" background-color="#222938" text-color="#fff"
